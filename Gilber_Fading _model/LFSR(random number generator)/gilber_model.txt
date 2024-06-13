@@ -1,0 +1,2 @@
+The gilbert_model contains gamma scenarios, with PGB = 0.05 and PBG = 0.2, rand_val is a example of random number generator from chatgpt but it seems not updating generated value. 
+Issue: when rand_val > 0.05, state is always at GOOD, where as when rand_val < 0.05, state transition is GBGBGBGBGBGB never stops.

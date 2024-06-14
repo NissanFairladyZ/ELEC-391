@@ -1,1 +1,2 @@
 The LFSR is used to generate random numbers, used as the input into the gilbert fading model as state transition conditions.
+Created on 6/13

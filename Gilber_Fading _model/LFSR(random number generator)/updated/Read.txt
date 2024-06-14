@@ -1,1 +1,2 @@
 This is a working gilbert model state machine, might need to extend the LFSR generated bits,  but in general, it works good for now.
+Created on 6/14

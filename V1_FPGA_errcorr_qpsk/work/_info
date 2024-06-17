@@ -1,0 +1,585 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi
+vACS
+Z0 !s110 1718648463
+!i10b 1
+!s100 83iJV^e2b@9@nikQPQd_T0
+Ic5b385cc2jY9k6`YPFY6>2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/bryan/Downloads/ELEC 391/FINALVERSION
+Z3 w1718581807
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACS.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACS.v
+Z4 L0 25
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1718648463.000000
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACS.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACS.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@a@c@s
+vACSEngine
+R0
+!i10b 1
+!s100 SdiZd5CDOMBXYVcgSi2IA3
+I?OhDBN=Fh009c0`_ijg1H1
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACSEngine.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACSEngine.v
+Z9 L0 26
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACSEngine.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACSEngine.v|
+!i113 1
+R7
+R8
+n@a@c@s@engine
+vACSRenorm
+R0
+!i10b 1
+!s100 D89UYlI@=ATHVf:P`N_D:1
+Ikg;JUR8Q;G8NafKBhgkAZ0
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACSRenorm.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACSRenorm.v
+L0 29
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACSRenorm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACSRenorm.v|
+!i113 1
+R7
+R8
+n@a@c@s@renorm
+vACSUnit
+R0
+!i10b 1
+!s100 ;E>Tm4zIDGcQIP>E:=N8R2
+IbU;KIOLaXBS5[R^8<HNEM2
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACSUnit.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACSUnit.v
+Z10 L0 24
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACSUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/ACSUnit.v|
+!i113 1
+R7
+R8
+n@a@c@s@unit
+vBranchMetric
+R0
+!i10b 1
+!s100 ^diT0:6L@fd;EV]cS2BDm3
+I_heURjTlJ@IIJL3l5f;zY3
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/BranchMetric.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/BranchMetric.v
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/BranchMetric.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/BranchMetric.v|
+!i113 1
+R7
+R8
+n@branch@metric
+vCE
+R0
+!i10b 1
+!s100 5mYmR1^0jjf_4[[9XW?H52
+IDjMT:o954>3elKjT7zb<03
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/CE.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/CE.v
+R9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/CE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/CE.v|
+!i113 1
+R7
+R8
+n@c@e
+vconvolution_top
+R0
+!i10b 1
+!s100 ]ZiBXHA:EmzA?`0RdJQbF1
+IGALRcck2_n4i:V=0O]ReD0
+R1
+R2
+w1718593322
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/convolution_top.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/convolution_top.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/convolution_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/convolution_top.v|
+!i113 1
+R7
+R8
+vdemod_top
+Z11 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R0
+!i10b 1
+!s100 e2i1LV]^<m[Dk2Y5J>;]k1
+IDe>6Kk9HRk9a=z2FRNWB:3
+R1
+!s105 demod_top_sv_unit
+S1
+R2
+w1718643519
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/demod_top.sv
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/demod_top.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/demod_top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/demod_top.sv|
+!i113 1
+Z12 o-work work -sv
+R8
+vdownsampler
+R0
+!i10b 1
+!s100 E1Ecz>hg:[1mn:WY=35gO0
+I[lhYY8PC5W`<0[0TdYLPn3
+R1
+R2
+w1718467752
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/audiocodec/downsampler.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/audiocodec/downsampler.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/audiocodec/downsampler.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/audiocodec/downsampler.v|
+!i113 1
+R7
+R8
+vmod_top
+R11
+R0
+!i10b 1
+!s100 HD0L12@=R`O;RI7IgKjJ32
+I:NoFVEJz19zE;k>J@0Nnf3
+R1
+!s105 mod_top_sv_unit
+S1
+R2
+w1718643402
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/mod_top.sv
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/mod_top.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/mod_top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/mod_top.sv|
+!i113 1
+R12
+R8
+vnoise_generator2
+R0
+!i10b 1
+!s100 KhS[o6l:jNGYWi4QY]35a0
+I>4<^<lf===KkBz5=j][ST0
+R1
+R2
+w1718589661
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/noise.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/noise.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/noise.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/noise.v|
+!i113 1
+R7
+R8
+vpart1
+Z13 !s110 1718648464
+!i10b 1
+!s100 z`^aSoAA^a8XJ=ZC39`DQ3
+IS^InGaa[7@0_^BZOe`FeX0
+R1
+R2
+w1718648460
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/audiocodec/part1.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/audiocodec/part1.v
+L0 2
+R5
+r1
+!s85 0
+31
+!s108 1718648464.000000
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/audiocodec/part1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/audiocodec/part1.v|
+!i113 1
+R7
+R8
+vqpsk_demodulator
+R0
+!i10b 1
+!s100 1N6;_K?ejknTP>?TfA<ZJ3
+IzNiS>7cifd:Waz7H_j5kE1
+R1
+R2
+w1718594117
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/qpsk_demod.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/qpsk_demod.v
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/qpsk_demod.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/qpsk_demod.v|
+!i113 1
+R7
+R8
+vqpsk_modulator
+R0
+!i10b 1
+!s100 UM3o1bWZhmkUR?4^Z[E<;0
+Ifc:kXPEk:9[V=UizL]igR3
+R1
+R2
+w1718640824
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/qpsk_mod.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/qpsk_mod.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/qpsk_mod.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/qpsk_mod.v|
+!i113 1
+R7
+R8
+vtb_conv_viterbi
+R0
+!i10b 1
+!s100 d^`W3[d7m6==AVLSDAcc^3
+I;3>TW6WRUMHafbI;^KA;i0
+R1
+R2
+w1718593019
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/tb_conv_viterbi.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/tb_conv_viterbi.v
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/tb_conv_viterbi.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/tb_conv_viterbi.v|
+!i113 1
+R7
+R8
+vtb_errcorr_qpsk
+R11
+R0
+!i10b 1
+!s100 i=6Cm]o]`J5O;fPl1HNML3
+I5bRC97P5l>aJ^7j]LDebM1
+R1
+!s105 tb_errcorr_qpsk_sv_unit
+S1
+R2
+w1718645755
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/tb_errcorr_qpsk.sv
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/tb_errcorr_qpsk.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/tb_errcorr_qpsk.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/tb_errcorr_qpsk.sv|
+!i113 1
+R12
+R8
+vtb_qpsk_mod_demod
+R0
+!i10b 1
+!s100 JB9a6K>zEk2ecG1@OQP0V1
+Ine9Y_W0EhoQb3bI_XPFlX3
+R1
+R2
+w1718594258
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/tb_qpsk.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/tb_qpsk.v
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/tb_qpsk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/tb_qpsk.v|
+!i113 1
+R7
+R8
+vtb_qpsk_top
+R11
+R0
+!i10b 1
+!s100 @BIRd?T5TZP?P[TbOSG=;1
+IU7U3:h[1PW2NS?P<Iz[^L3
+R1
+!s105 tb_qpsk_top_sv_unit
+S1
+R2
+w1718643558
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/tb_qpsk_top.sv
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/tb_qpsk_top.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/tb_qpsk_top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/qpsk/tb_qpsk_top.sv|
+!i113 1
+R12
+R8
+vtb_top_system
+R11
+R13
+!i10b 1
+!s100 1nHUJ42b[0;W42VcWk9n30
+I5HA<zWYdmi:@V9VWc7O630
+R1
+!s105 tb_top_system_sv_unit
+S1
+R2
+w1718646276
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/tb_top_system.sv
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/tb_top_system.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/tb_top_system.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/tb_top_system.sv|
+!i113 1
+R12
+R8
+vtop_system
+R11
+R0
+!i10b 1
+!s100 PzIKXz`m8466S[o[n:lBP1
+I^;8ERV[449oe;^:lWbgKQ0
+R1
+!s105 top_system_sv_unit
+S1
+R2
+w1718645991
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/top_system.sv
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/top_system.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/top_system.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/top_system.sv|
+!i113 1
+R12
+R8
+vTraceback
+R0
+!i10b 1
+!s100 VNRhT2MF3cWAWnDdag4BS3
+In<jVoe_0XelD:?jO0=Qk>0
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Traceback.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Traceback.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Traceback.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Traceback.v|
+!i113 1
+R7
+R8
+n@traceback
+vTracebackUnit
+R0
+!i10b 1
+!s100 k]mP7HdN9g9kk1An>XnUH3
+I32YQ?B[_ajmVAG=V8oU651
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/TracebackUnit.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/TracebackUnit.v
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/TracebackUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/TracebackUnit.v|
+!i113 1
+R7
+R8
+n@traceback@unit
+vViterbi_Decoder1
+R0
+!i10b 1
+!s100 6g3^E3>jFcDMJKiNo2O@=0
+I6`ZE:aafRg^9U[WEeig^]1
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Viterbi_Decoder1.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Viterbi_Decoder1.v
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Viterbi_Decoder1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Viterbi_Decoder1.v|
+!i113 1
+R7
+R8
+n@viterbi_@decoder1
+vViterbi_Decoder_Subsystem
+R0
+!i10b 1
+!s100 ACj^YVOmc7b3ldm5GP5nP1
+IWa<IfR?4a]Vzc:R0PbDXo0
+R1
+R2
+w1718587355
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Viterbi_Decoder_Subsystem.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Viterbi_Decoder_Subsystem.v
+L0 47
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Viterbi_Decoder_Subsystem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Viterbi_Decoder_Subsystem.v|
+!i113 1
+R7
+R8
+n@viterbi_@decoder_@subsystem
+vViterbi_Decoder_Subsystem_tb
+R0
+!i10b 1
+!s100 R0X_ii@GO4OMeQzaeiz8M1
+I3l:5DZC9_c>dc0CI3>[T41
+R1
+R2
+w1718581847
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Viterbi_Decoder_Subsystem_tb.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Viterbi_Decoder_Subsystem_tb.v
+L0 28
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Viterbi_Decoder_Subsystem_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/Viterbi_Decoder_Subsystem_tb.v|
+!i113 1
+R7
+R8
+n@viterbi_@decoder_@subsystem_tb
+vviterbi_top
+R0
+!i10b 1
+!s100 A?B1S9lnYeV:6nkhM9lQC2
+IURPT_W_k]FZYlnP5l=YSG2
+R1
+R2
+w1718593330
+8C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/viterbi_top.v
+FC:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/viterbi_top.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/viterbi_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/ELEC 391/FINALVERSION/conv_viterbi/viterbi_top.v|
+!i113 1
+R7
+R8

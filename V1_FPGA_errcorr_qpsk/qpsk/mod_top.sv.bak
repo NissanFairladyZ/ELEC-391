@@ -1,0 +1,88 @@
+module mod_top(input clk, input reset, input [31:0] data_in, output [15:0] I_comp [15:0] , output [15:0] Q_comp [15:0]);
+
+qpsk_modulator bit15(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[31:30]),
+			.I_comp(I_comp[15]),
+			.Q_comp(Q_comp[15]));
+qpsk_modulator bit14(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[29:28]),
+			.I_comp(I_comp[14]),
+			.Q_comp(Q_comp[14]));
+qpsk_modulator bit13(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[27:26]),
+			.I_comp(I_comp[13]),
+			.Q_comp(Q_comp[13]));
+qpsk_modulator bit12(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[25:24]),
+			.I_comp(I_comp[12]),
+			.Q_comp(Q_comp[12]));
+qpsk_modulator bit11(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[23:22]),
+			.I_comp(I_comp[11]),
+			.Q_comp(Q_comp[11]));
+qpsk_modulator bit10(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[21:20]),
+			.I_comp(I_comp[10]),
+			.Q_comp(Q_comp[10]));
+qpsk_modulator bit9(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[19:18]),
+			.I_comp(I_comp[9]),
+			.Q_comp(Q_comp[9]));
+qpsk_modulator bit8(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[17:16]),
+			.I_comp(I_comp[8]),
+			.Q_comp(Q_comp[8]));
+qpsk_modulator bit7(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[15:14]),
+			.I_comp(I_comp[7]),
+			.Q_comp(Q_comp[7]));
+qpsk_modulator bit6(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[13:12]),
+			.I_comp(I_comp[6]),
+			.Q_comp(Q_comp[6]));
+qpsk_modulator bit5(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[11:10]),
+			.I_comp(I_comp[5]),
+			.Q_comp(Q_comp[5]));
+qpsk_modulator bit4(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[9:8]),
+			.I_comp(I_comp[4]),
+			.Q_comp(Q_comp[4]));
+qpsk_modulator bit3(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[7:6]),
+			.I_comp(I_comp[3]),
+			.Q_comp(Q_comp[3]));
+qpsk_modulator bit2(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[5:4]),
+			.I_comp(I_comp[2]),
+			.Q_comp(Q_comp[2]));
+qpsk_modulator bit1(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[3:2]),
+			.I_comp(I_comp[1]),
+			.Q_comp(Q_comp[1]));
+qpsk_modulator bit0(.clk(clk),
+			.reset(reset),
+			.data_in(data_in[1:0]),
+			.I_comp(I_comp[0]),
+			.Q_comp(Q_comp[0]));
+
+
+
+
+endmodule
+

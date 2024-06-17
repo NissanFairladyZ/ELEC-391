@@ -1,0 +1,99 @@
+C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/viterbi_top.v {1 {vlog -work work -stats=none C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/viterbi_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module viterbi_top
+
+Top level modules:
+	viterbi_top
+
+} {} {}} C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/CE.v {1 {vlog -work work -stats=none C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/CE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CE
+
+Top level modules:
+	CE
+
+} {} {}} C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/BranchMetric.v {1 {vlog -work work -stats=none C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/BranchMetric.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BranchMetric
+
+Top level modules:
+	BranchMetric
+
+} {} {}} C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder_Subsystem_tb.v {1 {vlog -work work -stats=none C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder_Subsystem_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Viterbi_Decoder_Subsystem_tb
+
+Top level modules:
+	Viterbi_Decoder_Subsystem_tb
+
+} {} {}} C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/noise.v {1 {vlog -work work -stats=none C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/noise.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module noise_generator2
+
+Top level modules:
+	noise_generator2
+
+} {} {}} C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSUnit.v {1 {vlog -work work -stats=none C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSUnit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ACSUnit
+
+Top level modules:
+	ACSUnit
+
+} {} {}} C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACS.v {1 {vlog -work work -stats=none C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACS.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ACS
+
+Top level modules:
+	ACS
+
+} {} {}} C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder_Subsystem.v {1 {vlog -work work -stats=none C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder_Subsystem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Viterbi_Decoder_Subsystem
+
+Top level modules:
+	Viterbi_Decoder_Subsystem
+
+} {} {}} C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/TracebackUnit.v {1 {vlog -work work -stats=none C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/TracebackUnit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TracebackUnit
+
+Top level modules:
+	TracebackUnit
+
+} {} {}} C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Traceback.v {1 {vlog -work work -stats=none C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Traceback.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Traceback
+
+Top level modules:
+	Traceback
+
+} {} {}} C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/convolution_top.v {1 {vlog -work work -stats=none C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/convolution_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module convolution_top
+
+Top level modules:
+	convolution_top
+
+} {} {}} C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSRenorm.v {1 {vlog -work work -stats=none C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSRenorm.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ACSRenorm
+
+Top level modules:
+	ACSRenorm
+
+} {} {}} C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder1.v {1 {vlog -work work -stats=none C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Viterbi_Decoder1
+
+Top level modules:
+	Viterbi_Decoder1
+
+} {} {}} C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSEngine.v {1 {vlog -work work -stats=none C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSEngine.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ACSEngine
+
+Top level modules:
+	ACSEngine
+
+} {} {}}

@@ -1,0 +1,336 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vACS
+Z0 !s110 1718589869
+!i10b 1
+!s100 83iJV^e2b@9@nikQPQd_T0
+I5RHB0cJ<NZZ4`e5ISMkbe2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi
+Z3 w1718581807
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACS.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACS.v
+Z4 L0 25
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1718589869.000000
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACS.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACS.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@a@c@s
+vACSEngine
+R0
+!i10b 1
+!s100 SdiZd5CDOMBXYVcgSi2IA3
+IHJ<bAk7iYlfFn=egnPBDj0
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSEngine.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSEngine.v
+Z9 L0 26
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSEngine.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSEngine.v|
+!i113 1
+R7
+R8
+n@a@c@s@engine
+vACSRenorm
+R0
+!i10b 1
+!s100 D89UYlI@=ATHVf:P`N_D:1
+I[jg^NeaFLCK[99c45JN^g1
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSRenorm.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSRenorm.v
+L0 29
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSRenorm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSRenorm.v|
+!i113 1
+R7
+R8
+n@a@c@s@renorm
+vACSUnit
+R0
+!i10b 1
+!s100 ;E>Tm4zIDGcQIP>E:=N8R2
+I5lQWbnS]D:mEeZ9B@OY7a1
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSUnit.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSUnit.v
+Z10 L0 24
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/ACSUnit.v|
+!i113 1
+R7
+R8
+n@a@c@s@unit
+vBranchMetric
+R0
+!i10b 1
+!s100 ^diT0:6L@fd;EV]cS2BDm3
+I`;G;he0WEjlJ<k8]CA@7Y1
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/BranchMetric.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/BranchMetric.v
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/BranchMetric.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/BranchMetric.v|
+!i113 1
+R7
+R8
+n@branch@metric
+vCE
+R0
+!i10b 1
+!s100 5mYmR1^0jjf_4[[9XW?H52
+IdkAhaM6Dzc:Hf9SoV?mJe0
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/CE.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/CE.v
+R9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/CE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/CE.v|
+!i113 1
+R7
+R8
+n@c@e
+vconvolution_top
+Z11 !s110 1718589870
+!i10b 1
+!s100 ]ZiBXHA:EmzA?`0RdJQbF1
+IVO8OO`>eWBf>MN=?JLa;;1
+R1
+R2
+w1718588756
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/convolution_top.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/convolution_top.v
+L0 1
+R5
+r1
+!s85 0
+31
+Z12 !s108 1718589870.000000
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/convolution_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/convolution_top.v|
+!i113 1
+R7
+R8
+vnoise_generator2
+R11
+!i10b 1
+!s100 KhS[o6l:jNGYWi4QY]35a0
+IV2H;;YAEUJ2M=gbd_E=_n1
+R1
+R2
+w1718589661
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/noise.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/noise.v
+L0 1
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/noise.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/noise.v|
+!i113 1
+R7
+R8
+vtb_conv_viterbi
+R11
+!i10b 1
+!s100 ]CK;mZMO?JoAe2eoRbMc@1
+IZFG4KE61;DX0EOJc;g_Oz2
+R1
+R2
+w1718589868
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/tb_conv_viterbi.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/tb_conv_viterbi.v
+L0 2
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/tb_conv_viterbi.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/tb_conv_viterbi.v|
+!i113 1
+R7
+R8
+vTraceback
+R0
+!i10b 1
+!s100 VNRhT2MF3cWAWnDdag4BS3
+Inge5<IedO6l[Fj>e2MM[70
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Traceback.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Traceback.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Traceback.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Traceback.v|
+!i113 1
+R7
+R8
+n@traceback
+vTracebackUnit
+R0
+!i10b 1
+!s100 k]mP7HdN9g9kk1An>XnUH3
+IoVIeJ8?Wo8_[ERIGTF6842
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/TracebackUnit.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/TracebackUnit.v
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/TracebackUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/TracebackUnit.v|
+!i113 1
+R7
+R8
+n@traceback@unit
+vViterbi_Decoder1
+R11
+!i10b 1
+!s100 6g3^E3>jFcDMJKiNo2O@=0
+I8A^noCA_c>7X@PM37KfK<0
+R1
+R2
+R3
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder1.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder1.v
+R10
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder1.v|
+!i113 1
+R7
+R8
+n@viterbi_@decoder1
+vViterbi_Decoder_Subsystem
+R11
+!i10b 1
+!s100 ACj^YVOmc7b3ldm5GP5nP1
+I[[8i9FO4n:CObdh=5@T^Z1
+R1
+R2
+w1718587355
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder_Subsystem.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder_Subsystem.v
+L0 47
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder_Subsystem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder_Subsystem.v|
+!i113 1
+R7
+R8
+n@viterbi_@decoder_@subsystem
+vViterbi_Decoder_Subsystem_tb
+R0
+!i10b 1
+!s100 R0X_ii@GO4OMeQzaeiz8M1
+I1PGWbeS6dQea6WJNFCYnf3
+R1
+R2
+w1718581847
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder_Subsystem_tb.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder_Subsystem_tb.v
+L0 28
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder_Subsystem_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/Viterbi_Decoder_Subsystem_tb.v|
+!i113 1
+R7
+R8
+n@viterbi_@decoder_@subsystem_tb
+vviterbi_top
+R11
+!i10b 1
+!s100 V2IfDG5XLO=S4d?eN:3OE2
+IF;S8`:Lg83iniOUW3@eaP3
+R1
+R2
+w1718589038
+8C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/viterbi_top.v
+FC:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/viterbi_top.v
+L0 1
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/viterbi_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bryan/Downloads/viterbi/gm_hdlcoder_commviterbi/viterbi_top.v|
+!i113 1
+R7
+R8

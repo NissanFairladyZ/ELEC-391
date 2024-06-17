@@ -1,0 +1,10 @@
+gm_hdlcoder_commviterbi/Viterbi Decoder Subsystem/CE --> CE
+gm_hdlcoder_commviterbi/Viterbi Decoder Subsystem/Viterbi Decoder1/BranchMetric --> BranchMetric
+gm_hdlcoder_commviterbi/Viterbi Decoder Subsystem/Viterbi Decoder1/ACS/ACSEngine/ACSUnit --> ACSUnit
+gm_hdlcoder_commviterbi/Viterbi Decoder Subsystem/Viterbi Decoder1/ACS/ACSEngine --> ACSEngine
+gm_hdlcoder_commviterbi/Viterbi Decoder Subsystem/Viterbi Decoder1/ACS/ACSRenorm --> ACSRenorm
+gm_hdlcoder_commviterbi/Viterbi Decoder Subsystem/Viterbi Decoder1/ACS --> ACS
+gm_hdlcoder_commviterbi/Viterbi Decoder Subsystem/Viterbi Decoder1/Traceback/TracebackUnit --> TracebackUnit
+gm_hdlcoder_commviterbi/Viterbi Decoder Subsystem/Viterbi Decoder1/Traceback --> Traceback
+gm_hdlcoder_commviterbi/Viterbi Decoder Subsystem/Viterbi Decoder1 --> Viterbi_Decoder1
+gm_hdlcoder_commviterbi/Viterbi Decoder Subsystem --> Viterbi_Decoder_Subsystem

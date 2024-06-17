@@ -1,0 +1,12 @@
+vlib work
+vlog  CE.v
+vlog  BranchMetric.v
+vlog  ACSUnit.v
+vlog  ACSEngine.v
+vlog  ACSRenorm.v
+vlog  ACS.v
+vlog  TracebackUnit.v
+vlog  Traceback.v
+vlog  Viterbi_Decoder1.v
+vlog  Viterbi_Decoder_Subsystem.v
+vlog  Viterbi_Decoder_Subsystem_tb.v
